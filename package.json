@@ -1,5 +1,24 @@
 {
   "dependencies": {
-    "express": "^4.18.0"
-  }
+    "express": "^4.18.0",
+    "package.json": "^2.0.1"
+  },
+  "name": "rps-ant",
+  "description": "",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soham-Kamat/rps-ant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Soham-Kamat/rps-ant/issues"
+  },
+  "homepage": "https://github.com/Soham-Kamat/rps-ant#readme"
 }
